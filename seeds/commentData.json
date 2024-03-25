@@ -1,0 +1,14 @@
+[
+    {
+        "commentBody": "Testing testing 123",
+        "username": "Sal",
+        "post_id": "1",
+        "user_id": "1"
+    },
+    {
+        "commentBody": "123456789 test test",
+        "username": "Amiko",
+        "post_id": "2",
+        "user_id": "2"
+    }
+]

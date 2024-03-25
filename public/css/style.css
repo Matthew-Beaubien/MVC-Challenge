@@ -1,0 +1,138 @@
+.button {
+    background: #f9f9f9; 
+    border: 1px solid #07aefc; 
+    padding: 8px 16px; 
+    cursor: pointer;
+    color: #07aefc;
+    text-decoration: none;
+    font-size: 90%; 
+  }
+  
+  .button:hover {
+    background: #e6f7ff; 
+    color: #1e90ff; 
+  }
+  
+  .header {
+    background-color: #34495e; 
+    padding: 10px; 
+  }
+  
+  .header-nav {
+    padding: 0;
+    margin-top: 2%; 
+    margin-left: 2%; 
+  }
+  
+  .header-nav ul {
+    display: flex;
+    list-style: none;
+  }
+  
+  .header-nav li {
+    margin-left: 20%; 
+    margin-right: -5%; 
+    color: #ecf0f1; 
+  }
+  
+  .main-title a {
+    background-color: #ecf0f1;
+    padding: 8px; 
+    margin-top: 2%;
+    margin-left: 25%; 
+    display: inline-block;
+    border-radius: 10px; 
+    box-shadow: 3px 3px 10px #888; 
+    text-decoration: none;
+  }
+  
+  .post-container {
+    background-color: #ecf0f1; 
+    padding: 20px;
+    margin-bottom: 30px; 
+    border: 1px solid #999; 
+  }
+  
+  .post-title {
+    background-color: #34495e; 
+    color: #fff;
+    padding: 8px; 
+  }
+  
+  .post-content {
+    margin-top: 20px;
+    padding: 0 10px; 
+  }
+  
+  .post-info {
+    font-size: 14px; 
+    margin-top: 10px;
+  }
+  
+  .post-info .date {
+    font-style: normal; 
+  }
+  
+  .comment-text {
+    display: inline-block;
+    background-color: #ecf0f1;
+    padding: 8px; 
+    margin-top: 10px; 
+    border: 1px solid #999; 
+  }
+  
+  #comment-form {
+    padding-left: 10px; 
+  }
+  
+  .comment-content {
+    padding: 15px; 
+    font-size: 14px;
+    font-style: normal; 
+    text-align: left; 
+  }
+  
+  .comment-body {
+    background-color: #ecf0f1; 
+    padding: 0 10px; 
+  }
+  
+  .comment-author {
+    font-size: 14px; 
+    font-style: normal; 
+  }
+  
+  /* Footer Styles */
+  .footer {
+    background-color: #34495e;
+    color: #fff;
+    text-align: center;
+    padding: 20px; 
+  }
+  
+  .footer p {
+    margin: 0;
+    font-size: 16px; 
+  }
+  
+  .footer-links {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footer-links li {
+    display: inline;
+    margin-right: 20px; 
+  }
+  
+  .footer-links a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px; 
+  }
+  
+  .footer-links a:hover {
+    text-decoration: underline;
+    font-weight: bold; 
+  }
+  
